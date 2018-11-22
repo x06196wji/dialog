@@ -1,7 +1,6 @@
 module github.com/sqweek/dialog
 
 require (
-	github.com/AllenDang/w32 v0.0.0-20170622012957-9a4ee0f7d224
 	github.com/BurntSushi/freetype-go v0.0.0-20160129220410-b763ddbfe298
 	github.com/BurntSushi/graphics-go v0.0.0-20160129215708-b43f31a4a966
 	github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802
